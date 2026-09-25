@@ -7,3 +7,6 @@
 
 ## Setup
 pip install -r requirements.txt (inside each module folder)
+
+## Support Assistant Architecture
+(Details to be added)
