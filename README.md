@@ -10,3 +10,11 @@ pip install -r requirements.txt (inside each module folder)
 
 ## Support Assistant Architecture
 (Details to be added)
+
+## Example API Calls
+
+### Policy Question Example
+Request: {"query": "what is your delivery policy"}
+
+### General Question Example
+Request: {"query": "what is the capital of India"}
