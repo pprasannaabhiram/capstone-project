@@ -1,2 +1,7 @@
-anthropic
-python-dotenv
+
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+chromadb
+langgraph
